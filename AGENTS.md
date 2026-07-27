@@ -1,3 +1,9 @@
+# Owner canonical-state pathway
+
+For work performed as part of Alexander's connected project system, cross-project state and global rules live in private `majikmyc/ai-shared` on `main` (`CANONICAL_STATE_PROTOCOL.md`, then `INDEX.md`). This public repository remains authoritative for Ollama Client code. Google Drive, Sheets, Docs and NotebookLM are derived service/research layers and do not override GitHub.
+
+External contributors are not expected to access the private shared repository; the project instructions below are complete for ordinary contribution. Never commit private shared state, credentials or user data here.
+
 # AGENTS.md
 
 Guidance for AI coding assistants (Claude Code, Cursor, Warp, Copilot, etc.) working in this repository.
