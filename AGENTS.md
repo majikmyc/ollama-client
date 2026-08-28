@@ -1,6 +1,8 @@
 # Owner canonical-state pathway
 
-For work performed as part of Alexander's connected project system, cross-project state and global rules live in private `majikmyc/ai-shared` on `main` (`CANONICAL_STATE_PROTOCOL.md`, then `INDEX.md`). This public repository remains authoritative for Ollama Client code. Google Drive, Sheets, Docs and NotebookLM are derived service/research layers and do not override GitHub.
+For Alexander's connected project system, Google Drive `00_AI_WORKSPACE_CANONICAL` is canonical for shared AI-readable context. Read [CROSS_AI_CANONICAL_DAILY_AUDIT.md](https://drive.google.com/file/d/1kdNF-ATEnn6SZp3aEV5pQk770vKvfIjB/view?usp=drivesdk) first when access is available. This public repository remains authoritative for Ollama Client code, commits, pull requests, releases, tests, and review evidence. `majikmyc/ai-shared` is a private versioned recovery index/protocol mirror; Linear is the planning/status board.
+
+For owner-managed handoffs, validate and commit/push code here, then update the same Drive rolling audit. If Drive is unavailable, mark `DRIVE SYNC PENDING`.
 
 External contributors are not expected to access the private shared repository; the project instructions below are complete for ordinary contribution. Never commit private shared state, credentials or user data here.
 
